@@ -1,0 +1,1 @@
+alert('django js files got')
